@@ -8,3 +8,11 @@
 #header {
   border-bottom: 2px solid #1dd7ea;
 }
+
+article.post {
+  border-bottom: 2px solid #1dd7ea;
+}
+
+article.post header.post-header {
+  border-bottom: 2px solid #1dd7ea;
+}
