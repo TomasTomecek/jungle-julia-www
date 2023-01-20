@@ -42,13 +42,10 @@ jobs:
     - name: Build
       run: hugo --minify -e production
 
-    - name: Deploy
-      uses: peaceiris/actions-gh-pages@v3
-      if: ${{ github.ref == 'refs/heads/main' }}
+    - name: Upload artifact
+      uses: actions/upload-pages-artifact@v1
       with:
-        github_token: ${{ github.token }}
-        publish_dir: ./public
-        # cname: svatebni.mazli.ci
+        path: ./public
 
   # Deploy job
   deploy:
