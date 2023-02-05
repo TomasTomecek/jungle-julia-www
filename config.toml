@@ -11,7 +11,7 @@ theme = "jane"
 hasCJKLanguage = false    # has chinese/japanese/korean?
 paginate = 3              # Number of articles displayed on the homepage
 rssLimit = 20             # Limit Entry Count to Rss file
-disqusShortname = ""      # TODO: disqus_shortname
+disqusShortname = "tomastomecek"
 googleAnalytics = ""      # TODO: UA-XXXXXXXX-X
 copyright = "Tomáš Tomeček"            # default: author.name ↓
 
