@@ -38,12 +38,12 @@ defaultContentLanguageInSubdir = false
   priority = 0.5
   filename = "sitemap.xml"
 
-[[menu.main]]             # config your menu
+[[languages.cs.menu.main]]
   name = "Domov"
   weight = 10
   identifier = "home"
   pageref = "/"
-[[menu.main]]
+[[languages.cs.menu.main]]
   name = "Články"
   weight = 20
   identifier = "archives"
