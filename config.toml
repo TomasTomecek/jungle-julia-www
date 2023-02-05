@@ -64,7 +64,7 @@ defaultContentLanguage = "cs"           # Default language to use
   description = "Blog a permakulturní zahradě Jungle Julia."
 
   # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
-  dateFormatToUse = "1. 02. 2006"
+  dateFormatToUse = "2. 1. 2006"
 
   # Some global options, you can also close or open something in front matter for a single post, see more information from `archetypes/default.md`.
   toc = true                                                                            # 是否开启目录
