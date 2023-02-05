@@ -10,6 +10,8 @@ Vítejte v měsíčníku permakulturní zahrady Jungle Julia.
 
 Leden ~~je~~ není měsíc stvořený jako pro zahradničení. To neznamená že není co dělat. Je to idealní čas na přípravu na sezonu.
 
+![Zimní zahrada 1](/image/jan-2023/PXL_20221217_104115298.jpg)
+
 <!--more-->
 
 # "Típí"
@@ -59,7 +61,6 @@ Stará kompost kopa.
 
 I tak je zima úžasná, pohled na zasneženou zahardu je prostě nádhera.
 
-![Zimní zahrada 1](/image/jan-2023/PXL_20221217_104115298.jpg)
 ![Zimní zahrada 2](/image/jan-2023/PXL_20221217_104135563.jpg)
 
 Potvůrky zajíci u nás rádi mlsají, a tak musíme malé stromečky chránit. Kadeřávek jim ale necháváme, ať si taky pochutnají.
