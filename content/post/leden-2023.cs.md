@@ -30,6 +30,8 @@ styl.
 Zatím jenom prototyp se 4 nožkama. Zkoušíme či to přežije a když jo, přidáme
 asi 6 dalších. Navíc byla děsná kosa a pršelo, v tom se nedá dělat 🙄.
 
+Típí se jmenuje Odon.
+
 # Dřevo
 
 Na pozemku bylo hodně stromů které jsme tam nechtěli mít: tis, túje, lísky, orgovány a tak padli v roku 2022: děkujeme za jejich službu, ale na jejich místě bude domeček a jedlé záhony, keříky a stromečky. Dřevem se zahřejeme po večerech. V Lednu jsem nosil dříví do nového dřevníku který jsme postavili s rodinou v roku 2022.
