@@ -21,10 +21,13 @@ unsafe = true
 
 # language support # en / zh-cn / other... translations present in i18n/
 defaultContentLanguage = "cs"           # Default language to use
+defaultContentLanguageInSubdir = false
 [languages.cs]
   languageCode = "cs"
+  weight = 1
 [languages.en]
   languageCode = "en"
+  weight = 2
 
 [author]
   name = "Tomáš Tomeček"        # essential
