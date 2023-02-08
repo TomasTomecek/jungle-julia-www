@@ -12,7 +12,7 @@ hasCJKLanguage = false    # has chinese/japanese/korean?
 paginate = 3              # Number of articles displayed on the homepage
 rssLimit = 20             # Limit Entry Count to Rss file
 disqusShortname = "tomastomecek"
-googleAnalytics = ""      # TODO: UA-XXXXXXXX-X
+googleAnalytics = "G-7N6YEYMN3H"
 copyright = "Tomáš Tomeček"            # default: author.name ↓
 
 [markup.goldmark.renderer]
