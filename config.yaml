@@ -1,0 +1,77 @@
+# https://gohugo.io/getting-started/configuration/ .
+baseURL: 'https://jungle-julia.farm/'
+title: Zahrada Jungle Julia
+enableRobotsTXT: true
+enableEmoji: true
+theme: jane
+
+hasCJKLanguage: false
+# Number of articles displayed on the homepage
+paginate: 3
+rssLimit: 20
+
+disqusShortname: tomastomecek
+googleAnalytics: G-7N6YEYMN3H
+copyright: Tomáš Tomeček
+
+defaultContentLanguage: cs
+defaultContentLanguageInSubdir: false
+
+# render html inside markdown
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+languages:
+  cs:
+    languageCode: cs
+    weight: 1
+    menu:
+      main:
+        - name: Domov
+          weight: 10
+          identifier: home
+          pageref: /
+        - name: Články
+          weight: 20
+          identifier: archives
+          pageref: /post/
+  en:
+    languageCode: en
+    weight: 2
+
+author:
+  name: Tomáš Tomeček
+
+sitemap:
+  changefreq: weekly
+  priority: 0.5
+  filename: sitemap.xml
+
+params:
+  # site creation time
+  since: '2023'
+  # if false, show post summaries on home page. Otherwise show full content.
+  homeFullContent: false
+  rssFullContent: true
+
+  # more info about posts
+  moreMeta: true
+
+  keywords:
+    - permakultura
+    - zahrada
+  description: Blog a permakulturní zahradě Jungle Julia.
+
+  dateFormatToUse: 2. 1. 2006
+
+  toc: true
+  photoswipe: true  # https://github.com/dimsemenov/PhotoSwipe
+  contentCopyright: '<a rel="license noopener" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC BY-NC-ND 4.0</a>'
+  customCSS:
+    - julia.css
+  customJS: []
+  social:
+    a-email: 'mailto:tomas@tomecek.net'
+
