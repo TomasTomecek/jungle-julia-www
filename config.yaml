@@ -37,9 +37,6 @@ languages:
           weight: 20
           identifier: archives
           pageref: /post/
-  en:
-    languageCode: en
-    weight: 2
 
 author:
   name: Tomáš Tomeček
