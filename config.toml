@@ -15,19 +15,31 @@ disqusShortname = "tomastomecek"
 googleAnalytics = "G-7N6YEYMN3H"
 copyright = "Tomáš Tomeček"            # default: author.name ↓
 
+# language support # en / zh-cn / other... translations present in i18n/
+defaultContentLanguage = "cs"           # Default language to use
+defaultContentLanguageInSubdir = false
+
 [markup.goldmark.renderer]
 # I know what I'm doing
 unsafe = true
 
-# language support # en / zh-cn / other... translations present in i18n/
-defaultContentLanguage = "cs"           # Default language to use
-defaultContentLanguageInSubdir = false
-[languages.cs]
-  languageCode = "cs"
-  weight = 1
-[languages.en]
-  languageCode = "en"
-  weight = 2
+[languages]
+  [languages.cs]
+    languageCode = "cs"
+    weight = 1
+  [[languages.cs.menu.main]]
+    name = "Domov"
+    weight = 10
+    identifier = "home"
+    pageref = "/"
+  [[languages.cs.menu.main]]
+    name = "Články"
+    weight = 20
+    identifier = "archives"
+    pageref = "/post/"
+  [languages.en]
+    languageCode = "en"
+    weight = 2
 
 [author]
   name = "Tomáš Tomeček"        # essential
@@ -37,22 +49,6 @@ defaultContentLanguageInSubdir = false
   changefreq = "weekly"
   priority = 0.5
   filename = "sitemap.xml"
-
-[[languages.cs.menu.main]]
-  name = "Domov"
-  weight = 10
-  identifier = "home"
-  pageref = "/"
-[[languages.cs.menu.main]]
-  name = "Články"
-  weight = 20
-  identifier = "archives"
-  pageref = "/post/"
-# [[menu.main]]
-#   name = "external-link"
-#   weight = 50
-#   pageref = "https://gohugo.io"
-
 
 [params]
   since = "2023"            # Site creation time
