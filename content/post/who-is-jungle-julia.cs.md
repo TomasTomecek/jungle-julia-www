@@ -14,10 +14,18 @@ Jungle Julia je jméno naší permakulturní zahrady v Jihomoravském kraji.
 
 <!--more-->
 
-V našem plánu je, že jednou to bude džungle plná dobrútek.
+V našem plánu je, že jednou to bude džungle plná dobrůtek.
 
-S permakulturou jsme začali v létě 2021. To byl náš nultý rok zahradničení a
-osvojování si práci na půdě, princípú permakultury a ekozahradničení.
+S permakulturou jsme začali v létě 2022. To byl náš nultý rok zahradničení a
+osvojování si práci na půdě, principů permakultury a ekozahradničení.
+
+Rok 2023 považujeme za rok 1. Doufáme, že do konce roku nám na pozemku vyroste
+domeček do kterého se přestěhujeme. Zatím tedy jenom dojíždíme na zahradu z
+Brna.
+
+Našli jste někde hrubku? Podivný termín? Nebo dokonce nespisovní výraz? To je
+možné: autoři si libují ve slovíčkách a exotických výrazech. Hlavní autor se
+nikdy česky neučil, tak mějte prosím strpení.
 
 Naši oblíbenci jsou:
 
