@@ -8,7 +8,7 @@ tags: ["monthly"]
 
 Vítejte v měsíčníku permakulturní zahrady Jungle Julia.
 
-Leden ~~je~~ není měsíc stvořený jako pro zahradničení. To neznamená že není co dělat. Je to idealní čas na přípravu na sezonu.
+Leden ~~je~~ není měsíc stvořený jako pro zahradničení. To neznamená že není co dělat. Je to ideální čas na přípravu na sezonu.
 
 ![Zimní zahrada 1](/image/jan-2023/PXL_20221217_104115298.jpg)
 
@@ -38,7 +38,7 @@ Na pozemku bylo hodně stromů které jsme tam nechtěli mít: tis, túje, lísk
 
 ![Dřevo](/image/jan-2023/PXL_20230114_140931401.jpg)
 
-Šlo by uložit hežčeji ale... Nejdřív bude třeba nařezat na menší. Kéž by víkend mněl 7 dní.
+Šlo by uložit hezčeji ale... Nejdřív bude třeba nařezat na menší. Kéž by víkend měl 7 dní.
 
 
 # Štěpka a kompost
@@ -47,7 +47,7 @@ Na pozemku bylo hodně stromů které jsme tam nechtěli mít: tis, túje, lísk
 
 1. Klasický kompostér
 2. Kopa pod letní jabloní kde jsme házeli materiál celý rok a kde jsem testoval [Berkley metodu](https://casopisroots.cz/berkeleysky-kompost/)
-3. Nová kopa z podzimu: hlavně listí, jablíčka a bioodpad z kuchyně
+3. Nová kopa z podzimu: hlavně listí, jablíčka a bio-odpad z kuchyně
 
 Já myslím že na 2023 jsme ready.
 
@@ -61,7 +61,7 @@ Stará kompost kopa.
 
 # Zima
 
-I tak je zima úžasná, pohled na zasneženou zahardu je prostě nádhera.
+I tak je zima úžasná, pohled na zasněženou zahradu je prostě nádhera.
 
 ![Zimní zahrada 2](/image/jan-2023/PXL_20221217_104135563.jpg)
 

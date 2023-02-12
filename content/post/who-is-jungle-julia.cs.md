@@ -25,7 +25,7 @@ Brna.
 
 Našli jste někde hrubku? Podivný termín? Nebo dokonce nespisovní výraz? To je
 možné: autoři si libují ve slovíčkách a exotických výrazech. Hlavní autor se
-nikdy česky neučil, tak mějte prosím strpení.
+nikdy česky neučil, tak mějte prosím trpělivost.
 
 Naši oblíbenci jsou:
 
