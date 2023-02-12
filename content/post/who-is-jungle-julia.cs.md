@@ -3,9 +3,8 @@ title: "Kdo je Jungle Julia?"
 identifier: "about"
 date: 2023-01-16T18:38:52+08:00
 menu: "main"
-
+toc: false
 weight: 1
-
 ---
 
 <img class="center" src="/image/jungle-julia-logo.png" />

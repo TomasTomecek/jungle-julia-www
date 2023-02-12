@@ -3,7 +3,7 @@ title: "Leden 2023"
 date: 2023-01-16T16:00:00+08:00
 draft: false
 tags: ["monthly"]
-
+toc: true
 ---
 
 Vítejte v měsíčníku permakulturní zahrady Jungle Julia.
@@ -14,7 +14,7 @@ Leden ~~je~~ není měsíc stvořený jako pro zahradničení. To neznamená že
 
 <!--more-->
 
-# "Típí"
+## "Típí"
 
 V jednom permakulturním videu (link nemám, pardon) jsem viděl pána jak si
 postavil z haluzí poměrně vysoké típí (víc jak 3m) pro pěstování fazol. Tvrdil
@@ -32,7 +32,7 @@ asi 6 dalších. Navíc byla děsná kosa a pršelo, v tom se nedá dělat 🙄.
 
 Típí se jmenuje Odon.
 
-# Dřevo
+## Dřevo
 
 Na pozemku bylo hodně stromů které jsme tam nechtěli mít: tis, túje, lísky, orgovány a tak padli v roku 2022: děkujeme za jejich službu, ale na jejich místě bude domeček a jedlé záhony, keříky a stromečky. Dřevem se zahřejeme po večerech. V Lednu jsem nosil dříví do nového dřevníku který jsme postavili s rodinou v roku 2022.
 
@@ -41,7 +41,7 @@ Na pozemku bylo hodně stromů které jsme tam nechtěli mít: tis, túje, lísk
 Šlo by uložit hezčeji ale... Nejdřív bude třeba nařezat na menší. Kéž by víkend měl 7 dní.
 
 
-# Štěpka a kompost
+## Štěpka a kompost
 
 ...bez těchto hrdinů se v Julii neobejdeme. Štěpku nám dovezl tchán a nějakou kopu jsme objevili kus od pozemku. Kompostu máme 3 kopy:
 
@@ -59,7 +59,7 @@ Vlevo: štěpka, vpravo: 3. kompost kopa.
 
 Stará kompost kopa.
 
-# Zima
+## Zima
 
 I tak je zima úžasná, pohled na zasněženou zahradu je prostě nádhera.
 
