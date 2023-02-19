@@ -1,3 +1,6 @@
 # Jungle Julia blog
 
-TBD
+https://jungle-julia.farm/
+
+[How to contribute](/CONTRIBUTING.md)
+
