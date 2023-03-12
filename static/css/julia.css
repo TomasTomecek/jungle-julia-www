@@ -16,3 +16,7 @@ article.post {
 article.post header.post-header {
   border-bottom: 2px solid #1dd7ea;
 }
+
+div.pswp__caption div.pswp__caption__center {
+  font-size: 24px;
+}
