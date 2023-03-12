@@ -2,7 +2,7 @@
 title: "Zimní omeletka"
 date: 2021-03-19T10:27:42+01:00
 draft: false
-tags: ["breakfast"]
+tags: ["breakfast", "recipe"]
 author: Tomáš
 cover:
     image: /winter-omelette/real-cover.jpg

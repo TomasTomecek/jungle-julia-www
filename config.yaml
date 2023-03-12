@@ -29,14 +29,14 @@ languages:
     weight: 1
     menu:
       main:
-        - name: Domov
-          weight: 10
-          identifier: home
-          pageref: /
         - name: Články
           weight: 20
           identifier: archives
-          pageref: /post/
+          url: /post/
+        - name: Recepty
+          weight: 30
+          identifier: recipes
+          url: /tags/recipe/
 
 author:
   name: Tomáš Tomeček
