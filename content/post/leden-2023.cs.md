@@ -67,7 +67,3 @@ I tak je zima úžasná, pohled na zasněženou zahradu je prostě nádhera.
 
 Potvůrky zajíci u nás rádi mlsají, a tak musíme malé stromečky chránit. Kadeřávek jim ale necháváme, ať si taky pochutnají.
 
-
-## Galerie všech fotek
-
-{{< gallery dir="/image/jan-2023/" >}}
