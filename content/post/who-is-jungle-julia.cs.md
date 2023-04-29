@@ -38,3 +38,38 @@ Naši oblíbenci jsou:
 
 * [Charles Dowding](https://charlesdowding.co.uk/)
 
+## Co máme?
+
+Velké množství objektů u nás má nějaké jméno.
+
+* Pařezová polykultura
+
+* Polykultura u skruže
+
+* Konstrukce pro pnoucí rostliny - Odon
+
+* Čtvercový vyvýšený záhon - Jarin
+
+* Dlouhý krásný vyvýšený záhon - Meďák
+
+* Dvě asimíny: Pif a Paf
+
+* Kaki (Tomel): Tinker
+
+* Ježek: Jonáš
+
+* Krtek: Lojza
+
+* Přírodní vyvýšený záhon u jabloně: hora osudu (mount doom v originálu)
+
+### Bezejmení
+
+* Polykultura pod blumou
+
+## 2023 projekty
+
+* Kompostovací systém
+
+* Jezírko
+
+* Přírodní vyvýšený záhon u moruše na severní hranici
