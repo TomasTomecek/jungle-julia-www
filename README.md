@@ -9,7 +9,7 @@ https://jungle-julia.farm/
 
 Convert images to:
 ```
-$ convert 'PXL_*.jpg[50%]' -quality 92 resized%03d.jpg
+$ convert *.jpg -resize 50% -quality 92 -set filename:f '%t' ./'%[filename:f].jpg'
 ```
 
 That's `1489x1116px`.
