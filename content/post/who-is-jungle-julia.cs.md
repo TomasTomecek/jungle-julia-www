@@ -12,7 +12,7 @@ Jungle Julia je jméno naší permakulturní zahrady v Jihomoravském kraji.
 
 <!--more-->
 
-V našem plánu je, že jednou to bude džungle plná dobrůtek.
+Jednou to bude džungle plná dobrůtek.
 
 S permakulturou jsme začali v létě 2022. To byl náš nultý rok zahradničení a
 osvojování si práci na půdě, principů permakultury a ekozahradničení.
@@ -51,9 +51,13 @@ Velké množství objektů u nás má nějaké jméno.
 
 * Dlouhý krásný vyvýšený záhon - Meďák
 
-* Dvě asimíny: Pif a Paf
+* Bylinková spirála Bára
+
+* Dvě asimíny: Pif a Paf (RIP)
 
 * Kaki (Tomel): Tinker
+
+* Melounka Máša
 
 * Ježek: Jonáš
 
@@ -61,14 +65,54 @@ Velké množství objektů u nás má nějaké jméno.
 
 * Přírodní vyvýšený záhon u jabloně: hora osudu (mount doom v originálu)
 
+* Přírodní vyvýšený záhon u lésky: osamělá hora (lonely mountain v originálu)
+
 ### Bezejmení
 
 * Polykultura pod blumou
 
+* Polykultura u jezírka (zatím nemá jméno)
+
 ## 2023 projekty
 
-* Kompostovací systém
+* Kompostovací systém (hotovo 6/2023)
 
-* Jezírko
+* Jezírko (hotovo 7/2023)
 
-* Přírodní vyvýšený záhon u moruše na severní hranici
+* Přírodní vyvýšený záhon u moruše na severní hranici (hotovo 5/2023)
+
+* Bylinková spirála (hotovo 7/2023)
+
+## 2023/2024 projekty
+
+* 2 nové vyvýšené plechové záhony
+
+* výsadba keříčků a stromů
+
+  * černý rybíz
+
+  * asimina
+
+  * meruňka
+
+  * zimolez
+
+  * egreš
+
+  * muchovník
+
+  * dřínka
+
+  * víno
+
+  * kiwi
+
+  * borúvky
+
+* meďák 2
+
+* fakt nejsme megalomani
+
+* odon 2
+
+* příprava plochy na výsadbu ^
